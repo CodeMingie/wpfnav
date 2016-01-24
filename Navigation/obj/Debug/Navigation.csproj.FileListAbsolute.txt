@@ -1,0 +1,14 @@
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\bin\Debug\Navigation.exe.config
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\bin\Debug\Navigation.exe
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\bin\Debug\Navigation.pdb
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\MainWindow.g.cs
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\App.g.cs
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation_MarkupCompile.cache
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation_MarkupCompile.lref
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\MainWindow.baml
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.g.resources
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.Properties.Resources.resources
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.csproj.GenerateResource.Cache
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.exe
+c:\users\ming\documents\visual studio 2015\Projects\Navigation\Navigation\obj\Debug\Navigation.pdb
